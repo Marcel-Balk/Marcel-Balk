@@ -3,8 +3,15 @@
 ###
 
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td>
   <img src="https://github-readme-stats.vercel.app/api?username=Marcel-Balk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+      </td><td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcel-Balk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -39,3 +46,4 @@
 <img src="https://raw.githubusercontent.com/Marcel-Balk/Marcel-Balk/output/snake.svg" alt="Snake animation" />
 
 ###
+<img style="display: none;" src="https://telemetry.extremehosting.nl/Analy/?api=0C44A78F-C43E-4700-990A-0F40CE4B4A51&dtt=1746987107&urr=https://github.com/Marcel-Balk" />
