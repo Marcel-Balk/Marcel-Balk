@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <table width="100%">
+  <table border=0 width="100%">
     <tr>
       <td>
   <img src="https://github-readme-stats.vercel.app/api?username=Marcel-Balk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
